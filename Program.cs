@@ -9,6 +9,6 @@ for (int i = 0; i < food.Length; i++)
 
 Console.WriteLine("Cibo in prima posizione:" + " " + food[1]);
 
-Console.WriteLine("Cibo preferito in ultima posizione:" + " " + food[2]);
+Console.WriteLine("Cibo preferito in ultima posizione:" + " " + food[food.Length -1]);
 
 Console.WriteLine("Cibo a metà classifica:" + " " + food[food.Length / 2]);
