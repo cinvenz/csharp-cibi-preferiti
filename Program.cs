@@ -3,7 +3,7 @@ Console.WriteLine("lunghezza classifica:" + " " + food.Length + " " + "posizioni
 
 for (int i = 0; i < food.Length; i++)
 {
-    Console.WriteLine((i) + " " + food[i]);
+    Console.WriteLine( i + " " + food[i]);
 }
 
 
